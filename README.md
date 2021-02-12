@@ -1,0 +1,2 @@
+# nucleo32ADXL345EventClassifier
+example tinyML classifier
