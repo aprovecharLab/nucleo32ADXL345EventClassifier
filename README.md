@@ -1,2 +1,2 @@
-# nucleo32ADXL345EventClassifier
-example tinyML classifier
+# tiny machine learning examples
+tiny machine learning examples
